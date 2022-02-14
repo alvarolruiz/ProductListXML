@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <Producto>
+        <id>1</id>
+        <Descripción>Sarten</Descripción>
+        <Precio>10.2</Precio>
+    </Producto>
+    <Producto>
+        <id>2</id>
+        <Descripción>Escoba</Descripción>
+        <Precio>5.1</Precio></Producto>
+    <Producto>
+        <id>3</id>
+        <Descripción>Freidora</Descripción>
+        <Precio>20.7</Precio>
+    </Producto>
+</root>
